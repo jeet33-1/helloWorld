@@ -1,0 +1,14 @@
+# PyCharm / IntelliJ
+.idea/
+
+# Python virtual environment
+.venv/
+venv/
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Flask
+instance/
+.env
